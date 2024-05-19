@@ -2,9 +2,9 @@ import Swift
 typealias Product = (name: String, quantity: Int)
 
 let products: [Product] = [
-    ("Cooe", 5),
-    ("Soleo", 10),
-    ("Valeo", 20),
+    ("Iphone", 10),
+    ("Television", 21),
+    ("headphones", 25),
 ]
 
 for product in products {
