@@ -1,4 +1,4 @@
-let bills: [Int] = [10, 35, 5, 50, 100, 1, 5, 20]
+let bills: [Int] = [11, 160, 500, 10, 99, 155, 52, 2]
 
 var totalAmount = 0
 
